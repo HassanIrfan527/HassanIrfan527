@@ -1,6 +1,5 @@
 ## Hi, I'm Hassan
-Full-stack developer from Pakistan. FSc ICS student at Punjab Group of Colleges, currently
-building SaaS products remotely for a US startup while preparing for undergraduate CS abroad.
+Full-stack developer from Pakistan. FSc ICS student building SaaS products remotely for a US startup while preparing for undergraduate CS abroad.
 
 I taught myself to code in 2024 and have been shipping production code since —
 voice AI agents, API integrations, and full-stack web apps. I like systems that 
@@ -13,13 +12,6 @@ talk to each other, clean APIs, and tools that get out of the way.
 - **Votel.ai (CloseGPT)** — Python full-stack development on a US SaaS product.
     LiveKit voice/video AI, FastAPI/PostgreSQL backends, Instagram/Facebook/X API
     integrations.
-
-### What are my achievements so far?
-- **Promoted from a basic support agent to Full-stack developer** - I am currently the youngest member of my team. And I spent almost one and a half year working as a
-    support agent while trying to enhance my skills.
-- **Self-taught myself programming concepts** - I self-taught myself the programming concepts, without ever buying a course. All through curiosity and project-based learning.
-
-- **Work while studying** - I managed to get 95% in Matric and 78% in my first year of College all while working night shifts. That's not a flex, but its a real achievement in my opinion.
 
 ### Stack
 
